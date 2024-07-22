@@ -45,6 +45,26 @@ div{
 
 
 
+@media screen and (min-width:772px) {
+    div {
+        display: inline-block;
+        width: 45vw;
+    }
+
+    img {
+        display: flex;
+        height: 30vh;
+    }
+}
+
+@media screen and (min-width:998px) {
+
+    div {
+        display: inline-block;
+        width: 30vw;
+    }
+}
+
 
 
 
